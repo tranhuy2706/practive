@@ -1,0 +1,15 @@
+.btn-edit, .btn-delete {
+    border-radius: 60px;
+    cursor: pointer;
+    padding: 6px 10px;
+}
+.btn-edit:hover {
+    border-color: #ffb822!important;
+    color: #111!important;
+    background-color: #ffb822!important;
+}
+.btn-delete:hover {
+    border-color: #f4516c!important;
+    color: #111!important;
+    background-color: #f4516c!important;
+}
